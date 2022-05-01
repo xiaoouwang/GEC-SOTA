@@ -50,7 +50,9 @@ It can also be viewed on [GitHub Pages](https://gotutiyan.github.io/GEC-Info/)
 
 |Title|Year|Page|Note|
 |:--|:--|:--|:--|
+|"Automated Grammatical Error Correction: A Comprehensive Review"|2017|[[paper]](https://www.journals.nust.edu.pk/index.php/njes/article/download/219/100)||
 |"A Comprehensive Survey of Grammar Error Correction"|2020|[[paper]](https://arxiv.org/abs/2005.06600)||
+|"Recent Trends in the Use of Deep Learning Models for Grammar Error Handling"|2020|[[paper]](https://arxiv.org/abs/2009.02358)||
 
 
 # Shared Tasks
@@ -83,6 +85,7 @@ It can also be viewed on [GitHub Pages](https://gotutiyan.github.io/GEC-Info/)
 |Name|Year|Paper|Note|
 |:--|:--|:--|:--|
 |PIE-synthetic|2019| [[Parallel Iterative Edit Models for Local Sequence Transduction]](https://aclanthology.org/D19-1435)| [[download]](https://drive.google.com/open?id=1bl5reJ-XhPEfEaPjvO45M7w0yN-0XGOA)|
+
 
 ### For Evaluation
 
