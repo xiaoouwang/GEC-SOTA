@@ -46,11 +46,13 @@ It can also be viewed on [GitHub Pages](https://xiaoouwang.github.io/GEC-SOTA/)
 
 # Surveys
 
-| Title                                                                         | Year | Page                                                                                | Note |
-| :---------------------------------------------------------------------------- | :--- | :---------------------------------------------------------------------------------- | :--- |
-| "Automated Grammatical Error Correction: A Comprehensive Review"              | 2017 | [[paper]](https://www.journals.nust.edu.pk/index.php/njes/article/download/219/100) |      |
-| "A Comprehensive Survey of Grammar Error Correction"                          | 2020 | [[paper]](https://arxiv.org/abs/2005.06600)                                         |      |
-| "Recent Trends in the Use of Deep Learning Models for Grammar Error Handling" | 2020 | [[paper]](https://arxiv.org/abs/2009.02358)                                         |      |
+| Title                                                                                | Year | Author | Page                                                                                | Note |
+|:-------------------------------------------------------------------------------------|:-----|:-------|:------------------------------------------------------------------------------------|:-----|
+| "Various techniques used for grammar checking"                                       | 2016 | Manchanda | [[paper]](http://www.ijcait.com/IJCAIT/91/914.pdf)                                  |      |
+| "Automated Grammatical Error Correction: A Comprehensive Review"                     | 2017 |  Rauf| [[paper]](https://www.journals.nust.edu.pk/index.php/njes/article/download/219/100) |      |
+| "Grammatical error checking systems: A review of approaches and emerging directions" | 2018 | Madi | [[paper]](https://ieeexplore.ieee.org/iel7/8843511/8846966/08847020.pdf)            |      |
+| "A Comprehensive Survey of Grammar Error Correction"                                 | 2020 | Yu Wang | [[paper]](https://arxiv.org/abs/2005.06600)                                         |      |
+| "Recent Trends in the Use of Deep Learning Models for Grammar Error Handling"        | 2020 |  Mina Naghshnejad | [[paper]](https://arxiv.org/abs/2009.02358)                                         |      |
 
 # Shared Tasks
 
