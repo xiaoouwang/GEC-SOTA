@@ -1,6 +1,6 @@
 # GEC Information
 
-Everything about grammatical error correction, forked and updated from []
+Everything about grammatical error correction, forked, updated and co-maintained from [https://github.com/gotutiyan/GEC-Info](https://github.com/gotutiyan/GEC-Info).
 
 It can also be viewed on [GitHub Pages](https://xiaoouwang.github.io/GEC-Info/)
 
