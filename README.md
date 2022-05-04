@@ -1,49 +1,48 @@
 # GEC Information
 
-Something information of grammatical error correction :)
-Information will be added sometimes.
+Everything about grammatical error correction, forked and updated from []
 
-It can also be viewed on [GitHub Pages](https://gotutiyan.github.io/GEC-Info/)
+It can also be viewed on [GitHub Pages](https://xiaoouwang.github.io/GEC-Info/)
 
 # Overview
 
-- [Surveys](https://github.com/gotutiyan/GEC-Info#surveys)
-- [Shared Tasks](https://github.com/gotutiyan/GEC-Info#shared-tasks)
-- [Datasets](https://github.com/gotutiyan/GEC-Info#datasets)
-  - [For Training](https://github.com/gotutiyan/GEC-Info#for-training-real-data)
-  - [For Evaluation](https://github.com/gotutiyan/GEC-Info#for-evaluation)
-- [Performance Measures](https://github.com/gotutiyan/GEC-Info#performance-measures)
-  - [Reference-based](https://github.com/gotutiyan/GEC-Info#reference-based)
-  - [Reference-less](https://github.com/gotutiyan/GEC-Info#reference-less)
-- [Quality Estimation](https://github.com/gotutiyan/GEC-Info#quality-estimation)
-- [Models / Architectues](https://github.com/gotutiyan/GEC-Info#models--architectures)
-  - [Supervised](https://github.com/gotutiyan/GEC-Info#supervised)
-  - [Unsupervised](https://github.com/gotutiyan/GEC-Info#unsupervised)
-- [Strategies](https://github.com/gotutiyan/GEC-Info#strategies)
-- [Data Augmentation](https://github.com/gotutiyan/GEC-Info#data-augmentation)
-- [Analyses / Findings](https://github.com/gotutiyan/GEC-Info#analyses--findings)
-- [Other Tools](https://github.com/gotutiyan/GEC-Info#other-tools)
-- [Spoken Domain](https://github.com/gotutiyan/GEC-Info#spoken-domain)
-- [Applications](https://github.com/gotutiyan/GEC-Info#applications)
-- [Projects](https://github.com/gotutiyan/GEC-Info#projects)
-- [Other Materials](https://github.com/gotutiyan/GEC-Info#other-materials)
-- [Related Tasks](https://github.com/gotutiyan/GEC-Info#related-tasks)
-  - [Grammatical Error Detection](https://github.com/gotutiyan/GEC-Info#grammatical-error-detection)
-  - [Feedback Comment Generation](https://github.com/gotutiyan/GEC-Info#feedback-comment-generation)
-- [Other Languages](https://github.com/gotutiyan/GEC-Info#other-languages)
-  - [Arabic](https://github.com/gotutiyan/GEC-Info#arabic)
-  - [Bangla](https://github.com/gotutiyan/GEC-Info#bangla)
-  - [Chinese](https://github.com/gotutiyan/GEC-Info#chinese)
-  - [Czech](https://github.com/gotutiyan/GEC-Info#czech)
-  - [Geek](https://github.com/gotutiyan/GEC-Info#geek)
-  - [German](https://github.com/gotutiyan/GEC-Info#german)
-  - [Hindi](https://github.com/gotutiyan/GEC-Info#hindi)
-  - [Japanese](https://github.com/gotutiyan/GEC-Info#japanese)
-  - [Lithuanian](https://github.com/gotutiyan/GEC-Info#lithuanian)
-  - [Romain](https://github.com/gotutiyan/GEC-Info#romain)
-  - [Russian](https://github.com/gotutiyan/GEC-Info#russian)
-  - [Spanish](https://github.com/gotutiyan/GEC-Info#spanish)
-  - [Ukrainian](https://github.com/gotutiyan/GEC-Info#ukrainian)
+- [Surveys](https://github.com/xiaoouwang/GEC-Info#surveys)
+- [Shared Tasks](https://github.com/xiaoouwang/GEC-Info#shared-tasks)
+- [Datasets](https://github.com/xiaoouwang/GEC-Info#datasets)
+  - [For Training](https://github.com/xiaoouwang/GEC-Info#for-training-real-data)
+  - [For Evaluation](https://github.com/xiaoouwang/GEC-Info#for-evaluation)
+- [Performance Measures](https://github.com/xiaoouwang/GEC-Info#performance-measures)
+  - [Reference-based](https://github.com/xiaoouwang/GEC-Info#reference-based)
+  - [Reference-less](https://github.com/xiaoouwang/GEC-Info#reference-less)
+- [Quality Estimation](https://github.com/xiaoouwang/GEC-Info#quality-estimation)
+- [Models / Architectues](https://github.com/xiaoouwang/GEC-Info#models--architectures)
+  - [Supervised](https://github.com/xiaoouwang/GEC-Info#supervised)
+  - [Unsupervised](https://github.com/xiaoouwang/GEC-Info#unsupervised)
+- [Strategies](https://github.com/xiaoouwang/GEC-Info#strategies)
+- [Data Augmentation](https://github.com/xiaoouwang/GEC-Info#data-augmentation)
+- [Analyses / Findings](https://github.com/xiaoouwang/GEC-Info#analyses--findings)
+- [Other Tools](https://github.com/xiaoouwang/GEC-Info#other-tools)
+- [Spoken Domain](https://github.com/xiaoouwang/GEC-Info#spoken-domain)
+- [Applications](https://github.com/xiaoouwang/GEC-Info#applications)
+- [Projects](https://github.com/xiaoouwang/GEC-Info#projects)
+- [Other Materials](https://github.com/xiaoouwang/GEC-Info#other-materials)
+- [Related Tasks](https://github.com/xiaoouwang/GEC-Info#related-tasks)
+  - [Grammatical Error Detection](https://github.com/xiaoouwang/GEC-Info#grammatical-error-detection)
+  - [Feedback Comment Generation](https://github.com/xiaoouwang/GEC-Info#feedback-comment-generation)
+- [Other Languages](https://github.com/xiaoouwang/GEC-Info#other-languages)
+  - [Arabic](https://github.com/xiaoouwang/GEC-Info#arabic)
+  - [Bangla](https://github.com/xiaoouwang/GEC-Info#bangla)
+  - [Chinese](https://github.com/xiaoouwang/GEC-Info#chinese)
+  - [Czech](https://github.com/xiaoouwang/GEC-Info#czech)
+  - [Geek](https://github.com/xiaoouwang/GEC-Info#geek)
+  - [German](https://github.com/xiaoouwang/GEC-Info#german)
+  - [Hindi](https://github.com/xiaoouwang/GEC-Info#hindi)
+  - [Japanese](https://github.com/xiaoouwang/GEC-Info#japanese)
+  - [Lithuanian](https://github.com/xiaoouwang/GEC-Info#lithuanian)
+  - [Romain](https://github.com/xiaoouwang/GEC-Info#romain)
+  - [Russian](https://github.com/xiaoouwang/GEC-Info#russian)
+  - [Spanish](https://github.com/xiaoouwang/GEC-Info#spanish)
+  - [Ukrainian](https://github.com/xiaoouwang/GEC-Info#ukrainian)
 
 # Surveys
 
@@ -67,15 +66,15 @@ It can also be viewed on [GitHub Pages](https://gotutiyan.github.io/GEC-Info/)
 
 ### For Training (Real Data)
 
-| Name                               | Year | Paper                                                                                                                                                                                                                                                                                                                                                                                                              | Note                                                                                                                                                                                                                                                                                                                           |
-| :--------------------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| EFCamDat                           | 2014 | [[Automatic Linguistic Annotation ofLarge Scale L2 Databases: The EF-Cambridge Open Language Database(EFCamDat)]](https://www.semanticscholar.org/paper/Automatic-Linguistic-Annotation-ofLarge-Scale-L2-Geertzen-Alexopoulou/3261659127bebca4d805e8592906b37ece8d0ca3) [[The EF Cambridge Open Language Database (efcamdat) Information for Users]](https://corpus.mml.cam.ac.uk/faq/EFCamDat-Intro_release2.pdf) | [[download v2]](https://philarion.mml.cam.ac.uk)                                                                                                                                                                                                                                                                               |
-| GitHub Typo Corpus                 | 2019 | [[GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors]](https://arxiv.org/abs/1911.12893)                                                                                                                                                                                                                                                                                | [[download]](https://github.com/mhagiwara/github-typo-corpus)                                                                                                                                                                                                                                                                  |
-| W&I+LOCNESS on BEA2019 Shared Task | 2019 | [[Developing an Automated Writing Placement System for ESL Learners]](https://www.cl.cam.ac.uk/~hy260/WI-cefr.pdf)                                                                                                                                                                                                                                                                                                 | [[direct download]](https://www.cl.cam.ac.uk/research/nl/bea2019st/data/wi+locness_v2.1.bea19.tar.gz)                                                                                                                                                                                                                          |
-| FCE                                | 2011 | [[A New Dataset and Method for Automatically Grading ESOL Texts]](https://www.aclweb.org/anthology/P11-1019)                                                                                                                                                                                                                                                                                                       | [[direct download]](https://www.cl.cam.ac.uk/research/nl/bea2019st/data/fce_v2.1.bea19.tar.gz)                                                                                                                                                                                                                                 |
-| NUCLE                              | 2013 | [[Building a Large Annotated Corpus of Learner English: The NUS Corpus of Learner English]](https://www.aclweb.org/anthology/W13-1703)                                                                                                                                                                                                                                                                             | [[download]](https://www.comp.nus.edu.sg/~nlp/corpora.html)                                                                                                                                                                                                                                                                    |
-| ICNALE                             | 2013 | [[The ICNALE and Sophisticated Contrastive Interlanguage Analysis of Asian Learners of English]](http://www.lib.kobe-u.ac.jp/infolib/meta_pub/G0000003kernel_81006678)                                                                                                                                                                                                                                             | [[download]](http://language.sakura.ne.jp/icnale/)                                                                                                                                                                                                                                                                             |
-| Lang-8                             | 2011 | [[Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners]](https://aclanthology.org/I11-1017)                                                                                                                                                                                                                                                            | [[website]](https://sites.google.com/site/naistlang8corpora/) [[download: Fill this form]](https://docs.google.com/forms/d/17gZZsC_rnaACMXmPiab3kjqBEtRHPMz0UG9Dk-x_F0k/viewform?edit_requested=true)<br>Related tools are useful. See the [[Other Tools]](https://github.com/gotutiyan/GEC-Info#other-tools) for the details. |
+| Name                               | Year | Paper                                                                                                                                                                                                                                                                                                                                                                                                              | Note                                                                                                                                                                                                                                                                                                                            |
+| :--------------------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| EFCamDat                           | 2014 | [[Automatic Linguistic Annotation ofLarge Scale L2 Databases: The EF-Cambridge Open Language Database(EFCamDat)]](https://www.semanticscholar.org/paper/Automatic-Linguistic-Annotation-ofLarge-Scale-L2-Geertzen-Alexopoulou/3261659127bebca4d805e8592906b37ece8d0ca3) [[The EF Cambridge Open Language Database (efcamdat) Information for Users]](https://corpus.mml.cam.ac.uk/faq/EFCamDat-Intro_release2.pdf) | [[download v2]](https://philarion.mml.cam.ac.uk)                                                                                                                                                                                                                                                                                |
+| GitHub Typo Corpus                 | 2019 | [[GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors]](https://arxiv.org/abs/1911.12893)                                                                                                                                                                                                                                                                                | [[download]](https://github.com/mhagiwara/github-typo-corpus)                                                                                                                                                                                                                                                                   |
+| W&I+LOCNESS on BEA2019 Shared Task | 2019 | [[Developing an Automated Writing Placement System for ESL Learners]](https://www.cl.cam.ac.uk/~hy260/WI-cefr.pdf)                                                                                                                                                                                                                                                                                                 | [[direct download]](https://www.cl.cam.ac.uk/research/nl/bea2019st/data/wi+locness_v2.1.bea19.tar.gz)                                                                                                                                                                                                                           |
+| FCE                                | 2011 | [[A New Dataset and Method for Automatically Grading ESOL Texts]](https://www.aclweb.org/anthology/P11-1019)                                                                                                                                                                                                                                                                                                       | [[direct download]](https://www.cl.cam.ac.uk/research/nl/bea2019st/data/fce_v2.1.bea19.tar.gz)                                                                                                                                                                                                                                  |
+| NUCLE                              | 2013 | [[Building a Large Annotated Corpus of Learner English: The NUS Corpus of Learner English]](https://www.aclweb.org/anthology/W13-1703)                                                                                                                                                                                                                                                                             | [[download]](https://www.comp.nus.edu.sg/~nlp/corpora.html)                                                                                                                                                                                                                                                                     |
+| ICNALE                             | 2013 | [[The ICNALE and Sophisticated Contrastive Interlanguage Analysis of Asian Learners of English]](http://www.lib.kobe-u.ac.jp/infolib/meta_pub/G0000003kernel_81006678)                                                                                                                                                                                                                                             | [[download]](http://language.sakura.ne.jp/icnale/)                                                                                                                                                                                                                                                                              |
+| Lang-8                             | 2011 | [[Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners]](https://aclanthology.org/I11-1017)                                                                                                                                                                                                                                                            | [[website]](https://sites.google.com/site/naistlang8corpora/) [[download: Fill this form]](https://docs.google.com/forms/d/17gZZsC_rnaACMXmPiab3kjqBEtRHPMz0UG9Dk-x_F0k/viewform?edit_requested=true)<br>Related tools are useful. See the [[Other Tools]](https://github.com/xiaoouwang/GEC-Info#other-tools) for the details. |
 
 ### For Training (Pseudo/Systhetic Data)
 
@@ -108,17 +107,17 @@ It can also be viewed on [GitHub Pages](https://gotutiyan.github.io/GEC-Info/)
 | I-measure   | 2015 | [[Towards a standard evaluation method for grammatical error detection and correction]](https://aclanthology.org/N15-1060/)                                                                                                                                                           | [[code]](https://github.com/mfelice/imeasure)<br>Code is available only python 2.x.                                     |
 | ERRANT      | 2016 | [[Automatic Extraction of Learner Errors in ESL Sentences Using Linguistically Enhanced Alignments]](https://www.aclweb.org/anthology/C16-1079)<br>[[Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction]](https://www.aclweb.org/anthology/P17-1074) | [[code]](https://github.com/chrisjbryant/errant)<br>It is often used to evaluate BEA-2019.                              |
 | GMEG-Metric | 2019 | [[Enabling Robust Grammatical Error Correction in New Domains: Data Sets, Metrics, and Analyses]](https://aclanthology.org/Q19-1032)                                                                                                                                                  | [[code]](https://github.com/grammarly/GMEG)<br>Ridge regression using existing metrics (e.g. ERRANT, GLEU) as features. |
-| GoToScorer  | 2019 | [[Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation]](https://www.aclweb.org/anthology/2020.coling-main.188)                                                                                                                                   | [[code]](https://github.com/gotutiyan/GTS)<br>It can be evaluated systems considering error correction difficulty.      |
+| GoToScorer  | 2019 | [[Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation]](https://www.aclweb.org/anthology/2020.coling-main.188)                                                                                                                                   | [[code]](https://github.com/xiaoouwang/GTS)<br>It can be evaluated systems considering error correction difficulty.     |
 
 ### Reference-less
 
-| Keywords / Overview                             | Year | Paper                                                                                                                                                         | Note                                                              |
-| :---------------------------------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------- |
-| Scoring by counting the errors                  | 2016 | [[There’s No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction]](https://aclanthology.org/D16-1228)                               | [[code]](https://github.com/cnap/grammaticality-metrics)          |
-| Fluency + grammaticality + meaning preservation | 2017 | [[Reference-based Metrics can be Replaced with Reference-less Metrics in Evaluating Grammatical Error Correction Systems]](https://aclanthology.org/I17-2058) |                                                                   |
-| USim                                            | 2018 | [[Reference-less Measure of Faithfulness for Grammatical Error Correction]](https://aclanthology.org/N18-2020/)                                               | [[code]](https://github.com/borgr/USim)                           |
-| SOME                                            | 2020 | [[SOME: Reference-less Sub-Metrics Optimized for Manual Evaluations of Grammatical Error Correction]](https://aclanthology.org/2020.coling-main.573)          | [[code]](https://github.com/kokeman/SOME)                         |
-| Scribendi Score                                 | 2021 | [[Is this the end of the gold standard? A straightforward reference-less grammatical error correction metric]](https://aclanthology.org/2021.emnlp-main.239/) | [[Unofficial code]](https://github.com/gotutiyan/scribendi_score) |
+| Keywords / Overview                             | Year | Paper                                                                                                                                                         | Note                                                               |
+| :---------------------------------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------- |
+| Scoring by counting the errors                  | 2016 | [[There’s No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction]](https://aclanthology.org/D16-1228)                               | [[code]](https://github.com/cnap/grammaticality-metrics)           |
+| Fluency + grammaticality + meaning preservation | 2017 | [[Reference-based Metrics can be Replaced with Reference-less Metrics in Evaluating Grammatical Error Correction Systems]](https://aclanthology.org/I17-2058) |                                                                    |
+| USim                                            | 2018 | [[Reference-less Measure of Faithfulness for Grammatical Error Correction]](https://aclanthology.org/N18-2020/)                                               | [[code]](https://github.com/borgr/USim)                            |
+| SOME                                            | 2020 | [[SOME: Reference-less Sub-Metrics Optimized for Manual Evaluations of Grammatical Error Correction]](https://aclanthology.org/2020.coling-main.573)          | [[code]](https://github.com/kokeman/SOME)                          |
+| Scribendi Score                                 | 2021 | [[Is this the end of the gold standard? A straightforward reference-less grammatical error correction metric]](https://aclanthology.org/2021.emnlp-main.239/) | [[Unofficial code]](https://github.com/xiaoouwang/scribendi_score) |
 
 # Quality Estimation
 
